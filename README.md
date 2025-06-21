@@ -37,6 +37,7 @@ Las tarjetas preferenciales (dirigidas a estudiantes, adultos mayores y personas
 ## 📂 Estructura del repositorio
 
 ├── ProyectoCapstoneDEFV.ipynb # Notebook principal con procesamiento y modelado
+
 ├── README.md # Documento explicativo del proyecto
 
 Por motivos de confidencialidad y resguardo institucional, la base de datos utilizada en este proyecto no se encuentra disponible en el repositorio.
